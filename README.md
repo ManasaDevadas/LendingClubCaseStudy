@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> Outline a brief description of your project.
+Objective: The goal of this case study is to analyze Lending Club's loan data to understand the factors influencing loan defaults and to develop strategies to improve loan performance and mitigate risk.
 
 
 ## Table of Contents
@@ -8,41 +8,34 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
+
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+Problem Statement: Lending Club seeks to optimize its loan approval process and minimize the risk of loan defaults. Despite comprehensive credit assessments, the company experiences a significant rate of loan defaults, impacting profitability and investor confidence.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+loan.csv is the file with data.
+It contains the complete loan data for all loans issued through the time period 2007 t0 2011.
+
+
+
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+  All relevant insights are in the ManasaD_LendingClubCaseStudy.PDF
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+  - Used Python(3.9) libraries and Jupyter notebook to do EDA on loan dataset
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was done along with Basawaraj R
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by ManasaDevadas - feel free to contact me!
 
 
 <!-- Optional -->
