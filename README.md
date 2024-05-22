@@ -33,7 +33,7 @@ It contains the complete loan data for all loans issued through the time period 
 
 
 ## Acknowledgements
-- This project was done along with Basawaraj R
+- This project was done along with Basavaraj G
 
 
 
