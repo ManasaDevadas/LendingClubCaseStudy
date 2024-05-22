@@ -26,6 +26,9 @@ It contains the complete loan data for all loans issued through the time period 
 
 ## Technologies Used
   - Used Python(3.9) libraries and Jupyter notebook to do EDA on loan dataset
+  - Pandas 2.2.0
+  - matplotlib 3.8.4
+  - seaborn 0.13.2
 
 
 
